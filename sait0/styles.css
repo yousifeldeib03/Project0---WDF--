@@ -1,0 +1,36 @@
+img {
+  display: block;
+  margin: 20px auto;
+  max-width: 300px;
+}
+h1 {
+  display: block;
+  margin: 20px auto;
+  text-align: center;
+}
+#A {
+  background-color: gold;
+  margin: 20px auto;
+  display: block;
+
+  #B;
+}
+button {
+  background-color: black;
+  margin: 20px auto;
+  display: block;
+}
+
+body {
+  background-color: Gray;
+  min-height: 100vh;
+  width: 100vw;
+  margin: 0 auto;
+  padding: 20px 40px;
+}
+#A:hover {
+  color: yellow;
+}
+#B:hover {
+  color: red;
+}
